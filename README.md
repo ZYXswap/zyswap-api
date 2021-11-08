@@ -18,7 +18,7 @@ Returns data for the top ~1000 ZyxSwap pairs, sorted by reserves.
 
 ### Request
 
-`GET https://api.zyswap.com/api/v2/summary`
+`GET https://api.zyswap.com/api/summary`
 
 ### Response
 
@@ -38,13 +38,13 @@ Returns data for the top ~1000 ZyxSwap pairs, sorted by reserves.
 }
 ```
 
-## [`/tokens`](https://api.zyswap.com/api/v2/tokens)
+## [`/tokens`](https://api.zyswap.com/api/tokens)
 
 Returns the tokens in the top ~1000 pairs on ZyxSwap, sorted by reserves.
 
 ### Request
 
-`GET https://api.zyswap.com/api/v2/tokens`
+`GET https://api.zyswap.com/api/tokens`
 
 ### Response
 
@@ -62,13 +62,13 @@ Returns the tokens in the top ~1000 pairs on ZyxSwap, sorted by reserves.
 }
 ```
 
-## [`/tokens/0x...`](https://api.zyswap.com/api/v2/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82)
+## [`/tokens/0x...`](https://api.zyswap.com/api/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82)
 
 Returns the token information, based on address.
 
 ### Request
 
-`GET https://api.zyswap.com/api/v2/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`
+`GET https://api.zyswap.com/api/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`
 
 ### Response
 
@@ -83,13 +83,13 @@ Returns the token information, based on address.
 }
 ```
 
-## [`/pairs`](https://api.zyswap.com/api/v2/pairs)
+## [`/pairs`](https://api.zyswap.com/api/pairs)
 
 Returns data for the top ~1000 ZyxSwap pairs, sorted by reserves.
 
 ### Request
 
-`GET https://api.zyswap.com/api/v2/pairs`
+`GET https://api.zyswap.com/api/pairs`
 
 ### Response
 
