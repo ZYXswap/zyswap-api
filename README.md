@@ -68,7 +68,7 @@ Returns the token information, based on address.
 
 ### Request
 
-`GET https://api.zyxswap.com/api/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`
+`GET https://api.zyxswap.com/api/tokens/0xc9E1AEA009B0bAe9141F3dc7523fb42Fd48C8656`
 
 ### Response
 
