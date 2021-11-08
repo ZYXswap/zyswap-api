@@ -79,7 +79,6 @@ Returns the token information, based on address.
   "data": {
     "name": "...",                    // not necessarily included for BEP20 tokens
     "symbol": "...",                  // not necessarily included for BEP20 tokens
-    "price": "...",                   // price denominated in USD
     "price_ZYX": "...",               // price denominated in ZYX
   }
 }
