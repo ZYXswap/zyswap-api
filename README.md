@@ -55,7 +55,6 @@ Returns the tokens in the top ~1000 pairs on ZyxSwap, sorted by reserves.
     "0x...": {                        // the address of the BEP20 token
       "name": "...",                  // not necessarily included for BEP20 tokens
       "symbol": "...",                // not necessarily included for BEP20 tokens
-      "price": "...",                 // price denominated in USD
       "price_ZYX": "...",             // price denominated in ZYX
     },
     // ...
