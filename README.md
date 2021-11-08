@@ -1,3 +1,9 @@
+# ZyxSwap API
+
+The ZyxSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface ZyxSwap liquidity
+and volume information. All information is fetched from the underlying subgraphs.
+
+
 # Documentation
 
 All ZyxSwap pairs consist of two different tokens. ZYX is not a native currency in ZyxSwap, and is represented only by WZYX in the pairs.
