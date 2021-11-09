@@ -115,3 +115,7 @@ Returns data for the top ~1000 ZyxSwap pairs, sorted by reserves.
   }
 }
 ```
+### Fees
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool. 
+Whenever someone trades on ZyxSwap, the trader pays a 0.30% fee.
+Deposit/Withdraw fee : 0%.
